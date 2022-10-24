@@ -2,7 +2,7 @@
 
 import cv2
 import numpy as np
-import First_OpenAndFindContours
+# import First_OpenAndFindContours
 
 
 def letters_extract(image_file: str, out_size=28):
