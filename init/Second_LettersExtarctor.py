@@ -1,10 +1,11 @@
-# LeaderStat_1/init/LettersExtarctor.py
+# LeaderStat_1/init/Second_LettersExtarctor.py
+
 import cv2
 import numpy as np
+import First_OpenAndFindContours
 
 
 def letters_extract(image_file: str, out_size=28):
-
     """
 
     :param image_file:

@@ -1,4 +1,4 @@
-# LeaderStat_1/init/OpenAndFindContours.py
+# LeaderStat_1/init/First_OpenAndFindContours.py
 import cv2
 import numpy as np
 
