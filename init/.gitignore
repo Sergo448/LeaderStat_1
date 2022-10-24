@@ -1,2 +1,7 @@
 # created by virtualenv automatically
 *
+!/scripts/First_OpenAndFindContours.py
+!/scripts/Third_MakeModel.py
+!/scripts/Second_LettersExtarctor.py
+!/scripts/Fourth_PredictClasses.py
+!/scripts/
