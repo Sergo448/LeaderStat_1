@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="77a85b93-cc08-4c07-b804-fcc515c254a8" name="Changes" comment="Initial+">
+    <list default="true" id="77a85b93-cc08-4c07-b804-fcc515c254a8" name="Changes" comment="Make some python scripts for image detection">
+      <change afterPath="$PROJECT_DIR$/init/First_OpenAndFindContours.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/init/Fourth_PredictClasses.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/init/Second_LettersExtarctor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/init/Third_MakeModel.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/init/LettersExtarctor.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/init/OpenAndFindContours.py" beforeDir="false" />
@@ -78,7 +82,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666613132919</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Make some python scripts for image detection">
+      <created>1666615953851</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1666615953851</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -95,6 +106,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial" />
     <MESSAGE value="Initial+" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial+" />
+    <MESSAGE value="Make some python scripts for image detection" />
+    <option name="LAST_COMMIT_MESSAGE" value="Make some python scripts for image detection" />
   </component>
 </project>
